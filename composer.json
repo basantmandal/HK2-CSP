@@ -1,0 +1,35 @@
+{
+    "name": "hk2/csp",
+    "description": "This Module Whitelist CSP for Magento 2.3.5 or Above. HK2 CSP Whitelist some of the major url like Cloudflare, Google Analytics, Fontawesome, Addthis, Googleapis, Facebook Graph, Pinterest, Vimeo, Twitter. One can disable Magento 2 CSP. However, Disabling results in more possibilities of attacks on the Magento store. (CSP) are a powerful tool to mitigate against Cross Site Scripting (XSS) and related attacks.",
+    "type": "magento2-module",
+    "require": {
+        "magento/framework": ">=100.0.0",
+        "php": "^7.3.0|^7.4.0|^8.0|^8.1.0"
+    },
+    "version": "1.0.0",
+    "license": [
+        "OSL-3.0"
+    ],
+    "authors": [
+        {
+            "name": "Basant Mandal",
+            "email": "hashtagkitto@gmail.com",
+            "role": "Support"
+        }
+    ],
+    "keywords": [
+        "HK2",
+        "Basant",
+        "HK2_Csp",
+        "CSP",
+        "Whitelist URL CSP"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "HK2\\Csp\\": ""
+        }
+    }
+}
