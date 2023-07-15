@@ -1,13 +1,4 @@
 <?xml version="1.0"?>
-<!--
-/**
- * @Info        Whitelisting CSP
- * @author      Basant Mandal - HK2
- * @copyright   Copyright (c) 2022 Basant Mandal - HK2 
- * @package     HK2_Csp
- * @version     1.0.0
- */
--->
 <csp_whitelist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Csp/etc/csp_whitelist.xsd">
     <policies>
         <policy id="script-src">
@@ -25,6 +16,8 @@
                 <value id="trustpilot" type="host">*.trustpilot.com</value>
                 <value id="vimeo" type="host">*.vimeo.com</value>
                 <value id="widgets-pinterest" type="host">widgets.pinterest.com</value>
+                <value id="js-contentsqaure-app" type="host">*.contentsquare.com</value>
+                <value id="js-contentsquare" type="host">*.contentsquare.net</value>
             </values>
         </policy>
         <policy id="style-src">
@@ -44,6 +37,7 @@
                 <value id="paypal" type="host">*.paypal.com</value>
                 <value id="twitter.com" type="host">*.twitter.com</value>
                 <value id="vimeocdn" type="host">*.vimeocdn.com</value>
+                <value id="js-contentsquare" type="host">*.contentsquare.net</value>
             </values>
         </policy>
         <policy id="connect-src">
@@ -51,6 +45,7 @@
                 <value id="cloudflare" type="host">*.cloudflare.com</value>
                 <value id="paypal" type="host">*.paypal.com</value>
                 <value id="twitter.com" type="host">*.twitter.com</value>
+                <value id="nr-contentsuqare" type="host">*.contentsquare.net</value>
             </values>
         </policy>
         <policy id="font-src">
