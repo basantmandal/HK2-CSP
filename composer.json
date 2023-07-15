@@ -4,17 +4,18 @@
     "type": "magento2-module",
     "require": {
         "magento/framework": ">=100.0.0",
-        "php": "^7.3.0|^7.4.0|^8.0|^8.1.0"
+        "php": "^7.3.0|^7.4.0|^8.0|^8.1.0|^8.2.0"
     },
-    "version": "1.0.0",
+    "version": "1.0.2",
     "license": [
         "OSL-3.0"
     ],
     "authors": [
         {
             "name": "Basant Mandal",
-            "email": "hashtagkitto@gmail.com",
-            "role": "Support"
+            "email": "support@hashtagkitto.co.in",
+            "homepage": "https://www.hashtagkitto.co.in",
+            "role": "Technical Support"
         }
     ],
     "keywords": [
