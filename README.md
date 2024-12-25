@@ -1,6 +1,6 @@
 # HK2 CSP Whitelisting
 
-HK2 CSP Whitelisting for Magento version 2.3.5 or Above. HK2 CSP Whitelist some of the major url's like Cloudflare, Google Analytics, Google Fonts, Fontawesome, Addthis, Googleapis, Facebook Graph, Pinterest, Vimeo, Twitter, Trust Pilot.
+HK2 CSP Whitelisting for Magento version 2.3.5 or above includes major URLs such as Cloudflare, Google Analytics, Google Fonts, Fontawesome, AddThis, Googleapis, Facebook Graph, Pinterest, Vimeo, Twitter, TrustPilot, NitroPack/NitroCDN, jsdelivr.net, Tailwind CSS CDN, and ContentSquare
 
 One can disable Magento 2 CSP. However, Disabling results in more possibilities of attacks on the Magento store. (CSP) are a powerful tool to mitigate against Cross Site Scripting (XSS) and related attacks.
 
@@ -140,7 +140,7 @@ Contributions are welcome! If you’d like to contribute to this project:
 
 ## License
 
-Copyright (c) 2022, 2025 **Basant Mandal (HK2 - Hash Tag Kitto)**
+Copyright (c) 2022, 2025 [**Basant Mandal (HK2 - Hash Tag Kitto)**](https://www.basantmandal.in/)
 
 ## Consent
 
