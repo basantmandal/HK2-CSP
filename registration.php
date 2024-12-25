@@ -16,8 +16,8 @@
  *
  * @category    Basant Mandal (HK2 - HashTagKitto)
  * @package     HK2_CSP
- * @copyright   Copyright (c) Basant Mandal (HK2 - HashTagKitto) (https://www.hashtagkitto.co.in/) All rights reserved.
- * @license     https://hashtagkitto.co.in/LICENSE.txt
+ * @copyright   Copyright (c) Basant Mandal (HK2 - HashTagKitto) (https://www.basantmandal.in/) All rights reserved.
+ * @license     https://www.basantmandal.in/LICENSE.txt
  * @license     LICENSE.txt - Available in this Module Root Folder
  */
 
