@@ -6,7 +6,7 @@ One can disable Magento 2 CSP. However, Disabling results in more possibilities 
 
 **Please Note** :- This module Whitelist CSP in Magento Store Frontend.
 
-## Account & Pricing
+## 💰 Account & Pricing
 
 This is a Open Source - Free to use Module. No charge or any fee is there to use it.
 
@@ -32,7 +32,7 @@ This is a Open Source - Free to use Module. No charge or any fee is there to use
 12. Tailwind
 13. jsdelivr.net
 
-## Supported Version
+## 🚀 Supported Version
 
 - Magento v2.3.5, 2.4.x
 
@@ -94,7 +94,7 @@ You can add a domain to the whitelist for a policy (like script-src, style-src, 
 
 ![screenshot1](docs/images/screenshot1.png)
 
-## Maintenance mode
+## 🛠️ Maintenance mode
 
 You may want to enable the maintenance mode when installing or updating the module, especially when working on a production website. To do so, run the two commands below before and after running the other setup commands:
 
@@ -138,15 +138,15 @@ Contributions are welcome! If you’d like to contribute to this project:
 
 **Please Note** :- I may be a bit delayed in responding or slow in responding due to low amount of free time. I apologize for the inconvenience and I appreciate your patience
 
-## License
+## 📜 License
 
 Copyright (c) 2022, 2025 [**Basant Mandal (HK2 - Hash Tag Kitto)**](https://www.basantmandal.in/)
 
-## Consent
+## 🤝 Consent
 
 By using HK2 CSP Whitelisting Module, you hereby consent to our disclaimer and agree to its terms.
 
-## Disclaimer
+## 📢 Disclaimer
 
 > **Basant Mandal (HK2 - Hash Tag Kitto)** does not make any warranties about the completeness, reliability and accuracy of this image or its related products. Any action you take upon the information you find here is strictly at your own risk.
 
