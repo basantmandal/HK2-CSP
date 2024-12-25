@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<csp_whitelist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Csp/etc/csp_whitelist.xsd">
+<csp_whitelist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Csp:etc/csp_whitelist.xsd">
     <policies>
         <policy id="script-src">
             <values>
@@ -18,6 +18,8 @@
                 <value id="widgets-pinterest" type="host">widgets.pinterest.com</value>
                 <value id="js-contentsqaure-app" type="host">*.contentsquare.com</value>
                 <value id="js-contentsquare" type="host">*.contentsquare.net</value>
+                <value id="cdn-tailwindcss-script" type="host">cdn.tailwindcss.com</value>
+                <value id="cdnjs_jsdelivr_script" type="host">cdn.jsdelivr.net</value>
             </values>
         </policy>
         <policy id="style-src">
@@ -27,6 +29,11 @@
                 <value id="googleapis" type="host">*.googleapis.com</value>
                 <value id="gstatic" type="host">*.gstatic.com</value>
                 <value id="twitter.com" type="host">*.twitter.com</value>
+                <value id="cdn-tailwindcss-style" type="host">cdn.tailwindcss.com</value>
+                <value id="nitropack_io" type="host">nitropack.io</value>
+                <value id="cdnjs_cloudflare" type="host">cdnjs.cloudflare.com</value>
+                <value id="nitropack_cdn" type="host">*.nitrocdn.com</value>
+                <value id="cdnjs_jsdelivr_script" type="host">cdn.jsdelivr.net</value>
             </values>
         </policy>
         <policy id="img-src">
@@ -38,6 +45,8 @@
                 <value id="twitter.com" type="host">*.twitter.com</value>
                 <value id="vimeocdn" type="host">*.vimeocdn.com</value>
                 <value id="js-contentsquare" type="host">*.contentsquare.net</value>
+                <value id="nitropack_io" type="host">nitropack.io</value>
+                <value id="nitropack_cdn" type="host">*.nitrocdn.com</value>
             </values>
         </policy>
         <policy id="connect-src">
@@ -46,6 +55,9 @@
                 <value id="paypal" type="host">*.paypal.com</value>
                 <value id="twitter.com" type="host">*.twitter.com</value>
                 <value id="nr-contentsuqare" type="host">*.contentsquare.net</value>
+                <value id="google-analytics.com" type="host">*.google-analytics.com</value>
+                <value id="nitropack_cdn" type="host">*.nitrocdn.com</value>
+                <value id="nitropack_io" type="host">nitropack.io</value>
             </values>
         </policy>
         <policy id="font-src">
@@ -56,6 +68,8 @@
                 <value id="googleapis" type="host">*.googleapis.com</value>
                 <value id="gstatic" type="host">*.gstatic.com</value>
                 <value id="twitter.com" type="host">*.twitter.com</value>
+                <value id="nitropack_io" type="host">nitropack.io</value>
+                <value id="nitropack_cdn" type="host">*.nitrocdn.com</value>
             </values>
         </policy>
 
@@ -66,8 +80,9 @@
                 <value id="trustpilot" type="host">*.trustpilot.com</value>
                 <value id="twitter.com" type="host">*.twitter.com</value>
                 <value id="vimeo" type="host">*.vimeo.com</value>
+                <value id="doubleclick.net" type="host">*.doubleclick.net</value>
+                <value id="nitropack_io" type="host">nitropack.io</value>
             </values>
         </policy>
-
     </policies>
 </csp_whitelist>

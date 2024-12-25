@@ -6,8 +6,8 @@
  * NOTICE OF LICENSE
  *
  * This source file is subject to the Basant Mandal (HK2 - HashTagKitto) license that is
- * available in this module named LICENSE.txt 
- * A copy of license is also avaialble at url - https://www.hashtagkitto.co.in/LICENSE.txt
+ * available in this module named LICENSE.txt
+ * A copy of license is also available at url - https://www.hashtagkitto.co.in/LICENSE.txt
  *
  * DISCLAIMER
  *
@@ -18,7 +18,7 @@
  * @package     HK2_CSP
  * @copyright   Copyright (c) Basant Mandal (HK2 - HashTagKitto) (https://www.hashtagkitto.co.in/) All rights reserved.
  * @license     https://hashtagkitto.co.in/LICENSE.txt
- * @license     LICENSE.txt - Availabe in this Module Root Folder
+ * @license     LICENSE.txt - Available in this Module Root Folder
  */
 
 use Magento\Framework\Component\ComponentRegistrar;
