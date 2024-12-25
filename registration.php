@@ -7,7 +7,7 @@
  *
  * This source file is subject to the Basant Mandal (HK2 - HashTagKitto) license that is
  * available in this module named LICENSE.txt
- * A copy of license is also available at url - https://www.hashtagkitto.co.in/LICENSE.txt
+ * A copy of license is also available at url - https://www.basantmandal.in/LICENSE.txt
  *
  * DISCLAIMER
  *
